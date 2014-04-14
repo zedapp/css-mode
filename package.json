@@ -1,0 +1,11 @@
+{
+    "name": "CSS Mode",
+    "uri": "gh:zedapp/css-mode",
+    "version": "0.1",
+    "description": "CSS mode for Zed",
+    "files": [
+        "beautify-css.js",
+        "beautify.js",
+        "ctags.js"
+    ]
+}
