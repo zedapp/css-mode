@@ -6,8 +6,8 @@
     "files": [
         "beautify-css.js",
         "beautify.js",
-        "ctags.js",
         "check.js",
-        "css-lint.js"
+        "csslint.js",
+        "ctags.js"
     ]
 }
