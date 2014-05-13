@@ -8,6 +8,6 @@
         "beautify.js",
         "check.js",
         "csslint.js",
-        "ctags.js"
+        "index.js"
     ]
 }
