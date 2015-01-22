@@ -19,14 +19,16 @@
                     inputs: {
                         text: true
                     },
-                    internal: true
+                    internal: true,
+                    sandbox: "check"
                 },
                 "Tools:Index": {
                     scriptUrl: "./index.js",
                     inputs: {
                         text: true
                     },
-                    internal: true
+                    internal: true,
+                    sandbox: "index"
                 }
             },
             handlers: {
